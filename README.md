@@ -6,7 +6,7 @@ Hi! I am Ratnesh
 
 ## About Me!
 
-I am a Backend developer, currently pursuing my bachelor's degree in coumputer science at [Symbiosis Institue of Technology](https://www.sitpune.edu.in/), Pune.
+I am a Backend developer, currently pursuing my bachelor's degree in computer science at [Symbiosis Institue of Technology](https://www.sitpune.edu.in/), Pune.
 
 <br>
 
