@@ -53,13 +53,13 @@ I am a Backend developer, currently pursuing my bachelor's degree in computer sc
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br>
-
 <a href="https://github.com/ratneshjain40">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br>
+
+## My Blogs
 
 <a href="https://dev.to/ratneshjain40">
 <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
