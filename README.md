@@ -6,7 +6,7 @@ Hi! I am Ratnesh
 
 ## About Me!
 
-Welcome to my GitHub profile! I am a highly skilled software developer and cloud engineer with expertise in system design, backend development, and deployment. My experience with technologies such as Express, Flask, and AWS allows me to deliver robust and scalable systems. On my profile, you will find a variety of projects that showcase my abilities in building APIs, full-stack development, and cloud engineering.
+Welcome to my GitHub profile! I am a skilled software developer and cloud engineer with expertise in system design, backend development, and deployment. My experience with technologies such as Express, Flask, and AWS allows me to deliver robust and scalable systems. On my profile, you will find a variety of projects that showcase my abilities in building APIs, full-stack development, and cloud engineering.
 
 I am particularly interested in designing and implementing cloud-based solutions that can handle high traffic and scale efficiently. I am always looking for ways to improve system performance and stability and I strive to write clean and maintainable code.
 
