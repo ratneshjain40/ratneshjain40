@@ -41,8 +41,15 @@ Feel free to take a look at my repositories, and if you have any questions or co
 
 <br>
 
-## Languages I Work With
+## My Blogs
 
+<a href="https://dev.to/ratneshjain40">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>
+
+<br>
+
+## Languages I Work With
 
 <p align="center">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -61,14 +68,6 @@ Feel free to take a look at my repositories, and if you have any questions or co
 
 <a href="https://github.com/ratneshjain40">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br>
-
-## My Blogs
-
-<a href="https://dev.to/ratneshjain40">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 
 <br>
