@@ -17,16 +17,16 @@ Feel free to take a look at my repositories, and if you have any questions or co
 ## Technologies & Tools
 
 #### Frontend
-- Vue
+- Nuxt (Vue)
+- Next (React)
+- SvelteKit
 
 #### Backend
-- Express
-- Flask
-- Django
+- NestJs & Express
+- Java Spring Framework
+- Django, FastApi and Flask
 - Go (Fiber)
-
-#### Desktop
-- Electron
+- Rust (Axum)
 
 #### Web Scraping and Automation
 - Selenium
@@ -35,9 +35,6 @@ Feel free to take a look at my repositories, and if you have any questions or co
 #### Cloud Platforms
 - Azure
 - AWS
-
-#### Working on
-- Learning WebAssembly with Rust
 
 <br>
 
